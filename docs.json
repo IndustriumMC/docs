@@ -26,25 +26,20 @@
     "products": [
       {
         "product": "Immersive Experience",
-        "languages": [
+        "versions": [
           {
-            "language": "en",
-            "versions": [
+            "version": "Beta",
+            "languages": [
               {
-                "version": "Beta",
-                "pages": [
-                  "welcome-on-the-immersive-experience"
-                ]
-              }
-            ]
-          },
-          {
-            "language": "fr",
-            "versions": [
-              {
-                "version": "Beta",
+                "language": "fr",
                 "pages": [
                   "bienvenue-sur-l-experience-immersive"
+                ]
+              },
+              {
+                "language": "en",
+                "pages": [
+                  "welcome-on-the-immersive-experience"
                 ]
               }
             ]
@@ -53,23 +48,18 @@
       },
       {
         "product": "Vanilla Experience",
-        "languages": [
+        "versions": [
           {
-            "language": "en",
-            "versions": [
+            "version": "Beta",
+            "languages": [
               {
-                "version": "Beta",
+                "language": "en",
                 "pages": [
                   "welcome-on-the-vanilla-experience"
                 ]
-              }
-            ]
-          },
-          {
-            "language": "fr",
-            "versions": [
+              },
               {
-                "version": "Beta",
+                "language": "fr",
                 "pages": [
                   "bienvenue-sur-l-experience-vanilla"
                 ]
