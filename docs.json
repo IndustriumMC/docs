@@ -59,6 +59,6 @@
     }
   },
   "background": {
-    "decoration": "windows"
+    "decoration": "grid"
   }
 }
