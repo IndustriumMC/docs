@@ -29,24 +29,14 @@
         "products": [
           {
             "product": "Expérience Immersive",
-            "versions": [
-              {
-                "version": "Beta",
-                "pages": [
-                  "bienvenue-sur-l-experience-immersive"
-                ]
-              }
+            "pages": [
+              "bienvenue-sur-l-experience-immersive"
             ]
           },
           {
             "product": "Expérience Vanilla",
-            "versions": [
-              {
-                "version": "Beta",
-                "pages": [
-                  "bienvenue-sur-l-experience-vanilla"
-                ]
-              }
+            "pages": [
+              "bienvenue-sur-l-experience-vanilla"
             ]
           }
         ]
