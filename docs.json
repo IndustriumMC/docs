@@ -30,13 +30,13 @@
           {
             "language": "en",
             "pages": [
-              "welcome-on-the-immersive-experience"
+              "en/welcome-on-the-immersive-experience"
             ]
           },
           {
             "language": "fr",
             "pages": [
-              "bienvenue-sur-l-experience-immersive"
+              "fr/bienvenue-sur-l-experience-immersive"
             ]
           }
         ]
@@ -47,13 +47,13 @@
           {
             "language": "en",
             "pages": [
-              "welcome-on-the-vanilla-experience"
+              "en/welcome-on-the-vanilla-experience"
             ]
           },
           {
             "language": "fr",
             "pages": [
-              "bienvenue-sur-l-experience-vanilla"
+              "fr/bienvenue-sur-l-experience-vanilla"
             ]
           }
         ]
