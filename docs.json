@@ -62,6 +62,12 @@
     "decoration": "grid"
   },
   "fonts": {
-    "family": "Nunito"
+    "heading": {
+      "family": "Barlow",
+      "weight": 700
+    },
+    "body": {
+      "family": "Nunito"
+    }
   }
 }
