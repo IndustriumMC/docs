@@ -57,5 +57,8 @@
       "discord": "https://industrium.net/discord",
       "instagram": "https://www.instagram.com/industriummc"
     }
+  },
+  "background": {
+    "decoration": "grid"
   }
 }
