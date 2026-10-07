@@ -4,8 +4,8 @@
   "name": "Industrium",
   "colors": {
     "primary": "#C73F00",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#C73F00",
+    "dark": "#C73F00"
   },
   "favicon": "/favicon.png",
   "navigation": {
@@ -42,12 +42,7 @@
         "label": "Support",
         "href": "mailto:contact@industrium.net"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
