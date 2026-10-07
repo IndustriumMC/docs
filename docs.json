@@ -26,7 +26,9 @@
     "groups": [
       {
         "group": "Beta",
-        "pages": []
+        "pages": [
+          "landing"
+        ]
       }
     ]
   },
