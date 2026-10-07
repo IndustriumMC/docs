@@ -23,7 +23,12 @@
         }
       ]
     },
-    "groups": []
+    "groups": [
+      {
+        "group": "Beta",
+        "pages": []
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
