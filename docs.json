@@ -23,23 +23,28 @@
         }
       ]
     },
-    "products": [
+    "languages": [
       {
-        "product": "Immersive Experience",
-        "versions": [
+        "language": "fr",
+        "products": [
           {
-            "version": "Beta",
-            "languages": [
+            "product": "Expérience Immersive",
+            "versions": [
               {
-                "language": "fr",
+                "version": "Beta",
                 "pages": [
                   "bienvenue-sur-l-experience-immersive"
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "product": "Expérience Vanilla",
+            "versions": [
               {
-                "language": "en",
+                "version": "Beta",
                 "pages": [
-                  "welcome-on-the-immersive-experience"
+                  "bienvenue-sur-l-experience-vanilla"
                 ]
               }
             ]
@@ -47,21 +52,26 @@
         ]
       },
       {
-        "product": "Vanilla Experience",
-        "versions": [
+        "language": "en",
+        "products": [
           {
-            "version": "Beta",
-            "languages": [
+            "product": "Immersive Experience",
+            "versions": [
               {
-                "language": "en",
+                "version": "Beta",
+                "pages": [
+                  "welcome-on-the-immersive-experience"
+                ]
+              }
+            ]
+          },
+          {
+            "product": "Vanilla Experience",
+            "versions": [
+              {
+                "version": "Beta",
                 "pages": [
                   "welcome-on-the-vanilla-experience"
-                ]
-              },
-              {
-                "language": "fr",
-                "pages": [
-                  "bienvenue-sur-l-experience-vanilla"
                 ]
               }
             ]
