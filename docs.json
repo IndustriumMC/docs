@@ -23,11 +23,59 @@
         }
       ]
     },
-    "groups": [
+    "products": [
       {
-        "group": "Beta",
-        "pages": [
-          "landing"
+        "product": "Immersive Experience",
+        "languages": [
+          {
+            "language": "en",
+            "versions": [
+              {
+                "version": "Beta",
+                "pages": [
+                  "welcome-on-the-immersive-experience"
+                ]
+              }
+            ]
+          },
+          {
+            "language": "fr",
+            "versions": [
+              {
+                "version": "Beta",
+                "pages": [
+                  "bienvenue-sur-l-experience-immersive"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "product": "Vanilla Experience",
+        "languages": [
+          {
+            "language": "en",
+            "versions": [
+              {
+                "version": "Beta",
+                "pages": [
+                  "welcome-on-the-vanilla-experience"
+                ]
+              }
+            ]
+          },
+          {
+            "language": "fr",
+            "versions": [
+              {
+                "version": "Beta",
+                "pages": [
+                  "bienvenue-sur-l-experience-vanilla"
+                ]
+              }
+            ]
+          }
         ]
       }
     ]
