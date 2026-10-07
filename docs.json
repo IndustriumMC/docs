@@ -46,24 +46,14 @@
         "products": [
           {
             "product": "Immersive Experience",
-            "versions": [
-              {
-                "version": "Beta",
-                "pages": [
-                  "welcome-on-the-immersive-experience"
-                ]
-              }
+            "pages": [
+              "welcome-on-the-immersive-experience"
             ]
           },
           {
             "product": "Vanilla Experience",
-            "versions": [
-              {
-                "version": "Beta",
-                "pages": [
-                  "welcome-on-the-vanilla-experience"
-                ]
-              }
+            "pages": [
+              "welcome-on-the-vanilla-experience"
             ]
           }
         ]
