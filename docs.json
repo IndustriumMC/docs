@@ -96,5 +96,9 @@
     "body": {
       "family": "Nunito"
     }
+  },
+  "banner": {
+    "content": "The server is currently in Beta.",
+    "type": "warning"
   }
 }
