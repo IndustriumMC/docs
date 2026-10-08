@@ -23,25 +23,27 @@
         }
       ]
     },
-    "products": [
+    "tabs": [
       {
-        "product": "Immersive Experience",
-        "tabs": [
+        "tab": "Immservie Test",
+        "products": [
           {
-            "tab": "Immservie Test",
+            "product": "Immersive Experience",
             "pages": [
               "welcome-on-the-immersive-experience"
             ]
-          },
-          {
-            "tab": "Second test"
           }
         ]
       },
       {
-        "product": "Vanilla Experience",
-        "pages": [
-          "welcome-on-the-vanilla-experience"
+        "tab": "Second test",
+        "products": [
+          {
+            "product": "Vanilla Experience",
+            "pages": [
+              "welcome-on-the-vanilla-experience"
+            ]
+          }
         ]
       }
     ]
