@@ -23,25 +23,25 @@
         }
       ]
     },
-    "tabs": [
+    "products": [
       {
-        "tab": "Immservie Test",
-        "products": [
+        "product": "Immersive Experience",
+        "versions": [
           {
-            "product": "Immersive Experience",
+            "version": "Beta Version",
             "pages": [
-              "test"
+              "immersive-experience"
             ]
           }
         ]
       },
       {
-        "tab": "Second test",
-        "products": [
+        "product": "Vanilla Experience",
+        "versions": [
           {
-            "product": "Vanilla Experience",
+            "version": "Beta Version",
             "pages": [
-              "toto"
+              "vanilla-experience"
             ]
           }
         ]
