@@ -26,8 +26,16 @@
     "products": [
       {
         "product": "Immersive Experience",
-        "pages": [
-          "welcome-on-the-immersive-experience"
+        "tabs": [
+          {
+            "tab": "Immservie Test",
+            "pages": [
+              "welcome-on-the-immersive-experience"
+            ]
+          },
+          {
+            "tab": "Second test"
+          }
         ]
       },
       {
