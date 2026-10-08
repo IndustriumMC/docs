@@ -28,7 +28,8 @@
         "anchor": "Start here",
         "pages": [
           "about-industrium"
-        ]
+        ],
+        "icon": "rocket-launch"
       },
       {
         "anchor": "Gameplay",
@@ -55,7 +56,8 @@
               }
             ]
           }
-        ]
+        ],
+        "icon": "shield-halved"
       }
     ]
   },
