@@ -23,25 +23,36 @@
         }
       ]
     },
-    "products": [
+    "anchors": [
       {
-        "product": "Immersive Experience",
-        "versions": [
-          {
-            "version": "Beta Version",
-            "pages": [
-              "immersive-experience"
-            ]
-          }
+        "anchor": "Start here",
+        "pages": [
+          "about-industrium"
         ]
       },
       {
-        "product": "Vanilla Experience",
-        "versions": [
+        "anchor": "Gameplay",
+        "products": [
           {
-            "version": "Beta Version",
-            "pages": [
-              "vanilla-experience"
+            "product": "Immersive Experience",
+            "versions": [
+              {
+                "version": "Beta Version",
+                "pages": [
+                  "immersive-experience"
+                ]
+              }
+            ]
+          },
+          {
+            "product": "Vanilla Experience",
+            "versions": [
+              {
+                "version": "Beta Version",
+                "pages": [
+                  "vanilla-experience"
+                ]
+              }
             ]
           }
         ]
